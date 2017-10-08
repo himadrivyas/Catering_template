@@ -1,0 +1,73 @@
+
+---Downloaded files---
+The import files for: Theme demo content were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/cathy
+Data file = C:\wamp\www\cathy/wp-content/uploads/2017/10/demo-content-import-file_2017-10-06__03-09-58.xml
+Widget file = C:\wamp\www\cathy/wp-content/uploads/2017/10/demo-widgets-import-file_2017-10-06__03-09-58.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import ingredients Apple
+[WARNING] Failed to import ingredients Black pepper
+[WARNING] Failed to import ingredients Chicken
+[WARNING] Failed to import ingredients Curry powder
+[WARNING] Failed to import ingredients Ginger
+[WARNING] Failed to import ingredients Mayonnaise
+[WARNING] Failed to import ingredients Orange
+[WARNING] Failed to import ingredients Raisins
+[WARNING] Failed to import ingredients Salad
+[WARNING] Failed to import ingredients Salt
+[WARNING] Failed to import ingredients Yogurt
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ingredients Apple
+[WARNING] Failed to import ingredients Black pepper
+[WARNING] Failed to import ingredients Chicken
+[WARNING] Failed to import ingredients Curry powder
+[WARNING] Failed to import ingredients Ginger
+[WARNING] Failed to import ingredients Mayonnaise
+[WARNING] Failed to import ingredients Orange
+[WARNING] Failed to import ingredients Raisins
+[WARNING] Failed to import ingredients Salad
+[WARNING] Failed to import ingredients Salt
+[WARNING] Failed to import ingredients Yogurt
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - Looking for something? - Imported
+Tag Cloud - Ingredients - Imported
+Recent Comments - No Title - Imported
+Categories - No Title - Imported
+
+Front Page Widgets : 
+
+Text - No Title - Imported
+Text - Where to Find Us - Imported
+Text - About Us - Imported
+
+Footer Widgets : 
+
+Text - About Auberge - Imported
+Recent Posts - No Title - Imported
+Tag Cloud - Tag cloud - Imported
+
+banner : Sidebar does not exist in theme (moving widget to Inactive)
+
+image - No Title - Site does not support widget
+
+
+
+---pt-ocdi/after_import---
+
